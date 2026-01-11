@@ -5,7 +5,7 @@ import vector1 from '../assets/vector1.png';
 import vector2 from '../assets/vector2.png';
 import StatusCard from './StatusCard';
 
-const DashBoardOverview = () => {
+const DashBoardOverView = () => {
   const [tickets, setTickets] = useState(initialTickets);
 
   const handleTicketClick = (id) => {
@@ -121,4 +121,4 @@ const DashBoardOverview = () => {
   );
 };
 
-export default DashBoardOverview;
+export default DashBoardOverView;
