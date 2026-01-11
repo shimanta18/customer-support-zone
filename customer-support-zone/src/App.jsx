@@ -1,6 +1,5 @@
 
-import DashboardOverview from './Home/DashBoardOverView'
-import NavBar from './NavBar/NavBar'
+import NavBar from './NavBar/NavBar';
 
 const App = () => {
   return (
